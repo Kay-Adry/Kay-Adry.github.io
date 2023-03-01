@@ -1,0 +1,105 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#cabecera, #pie {
+    background-color:rgb(243, 235, 243);
+    color: rgb(124, 121, 124);
+    font-family: cursive;
+}
+
+#barra {
+    background-color:rgb(219, 202, 231);
+    color: rgb(22, 1, 22);
+    font-family: 'Zeyada', cursive;
+    font-weight: bold;
+    font-size: large;
+}
+
+
+
+
+#fondo-oscuro{
+    background-color:#17021d;
+    font-style:italic;
+    color: white;   
+    padding-top:35px;   
+    padding-bottom: 35px;  
+    }
+
+#fondo-oscuro h2{
+    font-family: 'Satisfy';
+    color: rgb(221, 120, 208);            
+}
+    
+
+
+#columna-derecha {
+    background-color:rgb(219, 202, 231);
+    color: rgb(22, 1, 22);
+    padding-top:50px;
+}
+
+#columna-derecha h2 {
+    font-family: 'Zeyada', cursive;
+    font-weight: bold;
+    background-color:rgb(252, 250, 253);
+    border-top: 3px solid #999;
+    border-bottom: 2px solid #999;
+}
+
+#columna-derecha h3{    
+    color: rgb(22, 1, 29);
+}
+
+#columna-derecha h4{    
+    color: rgb(97, 31, 119);
+    font-family: 'Satisfy', cursive;
+}
+
+#columna-derecha p {
+    font-style: italic;
+    font-weight: 100;
+    color: #17021d;
+}
+
+#rotulo {
+    background-color:rgb(127, 97, 148);
+    font-style:italic;
+    color: rgb(51, 2, 51);
+    text-align: center;
+    padding-top:50px;
+}
+
+
+#rotulo h1 {
+    font-family: 'Satisfy';
+    font-weight: bold;
+}
+
+#boton {
+    background-color:rgb(127, 97, 148);
+    font-style:italic;
+    color: rgb(51, 2, 51);
+    padding-top: 35px;
+}
+
+.nav-link {
+    color: #7e2291;
+    
+}
+
+
+
+
+.contacto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
